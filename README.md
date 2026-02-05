@@ -24,7 +24,6 @@ Este exercício tem como objetivo criar um programa simples em **HTML + JavaScri
 ## 📤 Saída de Dados
 - Mensagem de boas-vindas exibida na tela.
 
-## 💡 Exemplo de Saída
 
 # Exercício 2 – Concatenação de Nome e Sobrenome
 
@@ -54,7 +53,6 @@ Este exercício demonstra como capturar dados de um formulário HTML e concatena
 ## 📤 Saída de Dados
 - Mensagem de saudação exibida em um `alert`.
 
-## 💡 Exemplo de Saída
 
 # Exercício 3 – Soma de Dois Números Inteiros
 
@@ -82,4 +80,3 @@ Este exercício realiza a leitura de dois números inteiros informados pelo usu�
 ## 📤 Saída de Dados
 - Resultado da soma exibido na tela.
 
-## 💡 Exemplo de Saída
