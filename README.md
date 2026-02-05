@@ -1,5 +1,5 @@
 <div align="center">
-# Introdução ao JavaScript
+## Introdução ao JavaScript
 
 ## 🛠️ Tecnologias Utilizadas
 
