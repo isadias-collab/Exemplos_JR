@@ -87,3 +87,32 @@ Este exercício realiza a leitura de dois números inteiros informados pelo usu�
 ## 📤 Saída de Dados
 - Resultado da soma exibido na tela.
 
+# Exercício 4 – Máquina de Frutas 🍹
+
+## 📌 Descrição
+Este exercício simula uma **máquina de sucos**, onde o usuário pode escolher uma ou mais frutas, o tipo de líquido e se deseja adicionar açúcar. Ao final, o sistema exibe uma mensagem com o suco montado.
+
+## 🎯 Objetivo
+- Trabalhar com diferentes tipos de inputs HTML.
+- Manipular seleções múltiplas.
+- Utilizar funções JavaScript.
+- Praticar lógica condicional e manipulação do DOM.
+
+## 🧠 Funcionamento
+1. O usuário seleciona uma ou mais frutas.
+2. Escolhe o líquido (água ou leite).
+3. Decide se quer açúcar.
+4. Pode selecionar todas as frutas com um botão.
+5. Ao clicar em **Preparar Suco**, o sistema exibe o pedido final.
+
+## 📥 Entrada de Dados
+- Seleção múltipla de frutas (`select multiple`)
+- Botões de opção (`radio`)
+- Caixa de seleção (`checkbox`)
+
+## 📤 Saída de Dados
+- Mensagem exibida em janela de alerta (`alert`), informando os ingredientes do suco.
+
+
+
+
