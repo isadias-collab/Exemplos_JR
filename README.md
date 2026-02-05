@@ -1,4 +1,4 @@
-# Exemplos JR
+# Introdução ao JavaScript
 # Exercício 1 – Programa de Boas-Vindas
 
 ## 📌 Descrição
