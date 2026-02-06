@@ -113,6 +113,46 @@ Este exercício simula uma **máquina de sucos**, onde o usuário pode escolher 
 ## 📤 Saída de Dados
 - Mensagem exibida em janela de alerta (`alert`), informando os ingredientes do suco.
 
+# Exercício 5 – Calculadora de Intervalo entre Datas 📆
+
+## 📌 Descrição
+Este exercício consiste em uma **calculadora de intervalo entre duas datas**, desenvolvida com **HTML, CSS e JavaScript**.  
+O sistema permite que o usuário informe duas datas e calcula a diferença entre elas em **dias, meses e anos (aproximados)**.
+
+## 🎯 Objetivo
+- Trabalhar com datas em JavaScript.
+- Utilizar o objeto `Date`.
+- Calcular diferenças entre datas.
+- Manipular o DOM para exibir resultados dinamicamente.
+- Aplicar estilização com CSS.
+
+## 🧠 Funcionamento
+1. O usuário informa duas datas utilizando campos do tipo `date`.
+2. O sistema verifica se ambas as datas foram preenchidas.
+3. As datas são convertidas para objetos do tipo `Date`.
+4. O programa calcula a diferença entre elas em milissegundos.
+5. O valor é convertido para dias, meses e anos (de forma aproximada).
+6. O resultado é exibido na tela.
+7. O botão **Limpar Campos** apaga os dados e o resultado.
+
+## 🛠️ Tecnologias Utilizadas
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+</div>
+
+## 📥 Entrada de Dados
+- Duas datas selecionadas pelo usuário (`input type="date"`).
+
+## 📤 Saída de Dados
+- Diferença entre as datas em:
+  - Dias
+  - Meses (aproximado)
+  - Anos (aproximado)
+
 
 
 
